@@ -42,7 +42,7 @@ Instruksi langkah demi langkah untuk menginstal proyek Anda secara lokal.
 
 ```bash
 # Clone repository ini
-git clone https://github.com/defrijay/Majestic-Morsels-Restaurant.git
+git clone https://github.com/defrijay/Campside.git
 
 # Masuk ke direktori proyek
 cd repository-name
@@ -51,7 +51,7 @@ cd repository-name
 npm i --save-dev @types/node
 
 # Jalankan server kodenya secara live
-npm start --watch
+npm run dev --watch
 
 # Buka url servernya
  http://localhost:3000
