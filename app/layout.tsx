@@ -7,8 +7,8 @@ import Navbar from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Travel",
-  description: "Travel App For Camp",
+  title: "Tenjo Laut Camp",
+  description: "Tenjo Laut App For Camp",
 };
 
 export default function RootLayout({

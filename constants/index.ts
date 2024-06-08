@@ -1,4 +1,4 @@
-// NAVIGATION
+// Navigation
 export const NAV_LINKS = [
     { href: '/', key: 'home', label: 'Home' },
     { href: '/', key: 'how_hilink_work', label: 'About Campside' },
@@ -7,7 +7,7 @@ export const NAV_LINKS = [
     { href: '/', key: 'contact_us', label: 'Contact Us' },
   ];
   
-  // CAMP SECTION
+  // Camp Section
   export const PEOPLE_URL = [
     '/person-1.png',
     '/person-2.png',
@@ -15,7 +15,7 @@ export const NAV_LINKS = [
     '/person-4.png',
   ];
   
-  // FEATURES SECTION
+  // Features Section
   export const FEATURES = [
     {
       title: 'Integrated Offline Map',
@@ -47,7 +47,7 @@ export const NAV_LINKS = [
     },
   ];
   
-  // FOOTER SECTION
+  // Footer Section
   export const FOOTER_LINKS = [
     {
       title: 'Learn More',
@@ -66,6 +66,7 @@ export const NAV_LINKS = [
     },
   ];
   
+  // Footer Contact Section
   export const FOOTER_CONTACT_INFO = {
     title: 'Contact Us',
     links: [
@@ -74,6 +75,7 @@ export const NAV_LINKS = [
     ],
   };
   
+  // Footer Social Media
   export const SOCIALS = {
     title: 'Social',
     links: [
